@@ -72,12 +72,12 @@ Once our benchmarking journey is complete, you’ll find all the juicy results s
 
 ## 🤖 YOLO Model Performance
 
-| Model   | mAP (%) | FPS (avg) | Size (MB) | Training Time |
-|---------|---------|-----------|-----------|---------------|
-| YOLOv5  |    -    |     -     |     -     |       -       |
-| YOLOv7  |    -    |     -     |     -     |       -       |
-| YOLOv8  |    -    |     -     |     -     |       -       |
-| YOLOv9  |    -    |     -     |     -     |       -       |
+| Model   | mAP (%) | FPS (avg) | Model Size (MB) | Training Time (hrs) | Precision (%) | Recall (%) | F1 Score |
+|---------|---------|-----------|------------------|---------------------|---------------|------------|----------|
+| YOLOv5  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
+| YOLOv7  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
+| YOLOv8  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
+| YOLOv9  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
 
 *(Results will be updated after each benchmarking run.)*
 
