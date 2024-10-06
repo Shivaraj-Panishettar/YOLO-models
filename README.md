@@ -78,6 +78,7 @@ Once our benchmarking journey is complete, you’ll find all the juicy results s
 | YOLOv7  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
 | YOLOv8  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
 | YOLOv9  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
+| YOLOv10  |    -    |     -     |        -         |          -          |       -       |     -      |    -     |
 
 *(Results will be updated after each benchmarking run.)*
 
